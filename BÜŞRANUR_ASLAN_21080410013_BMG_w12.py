@@ -1,7 +1,7 @@
 #verilen tabloyu sınav_sonuc listesi olarak tanımladım
 sinav_sonuc = {'isimler':['ayse K.','Ahmet M.','Nuri C.','Nawar T.','Suzan T.','Ala B.'],
 'cinsiyet':['K','E','E','E','K','K'],
-'mat':[60,40,97,45,56,95],
+'mat':[60,40,97,45,56,93 ],
 'turkce':[70,30,23,80,78,46]}
 
 #isimler, cinsiyet,matematik , türkçe puanlarını ekrana yazdırdım
